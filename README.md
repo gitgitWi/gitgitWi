@@ -38,10 +38,11 @@ SELECT educations ORDER BY newest DESC
 
 ---
 
-## Mini Projects of Tutorial 
+## Mini Projects of Tutorials
 
 ```js
-["책", "Youtube Tutorials"].map(ele=>ele.따라하기())
+const Tutorials = ["책", "Youtube"]
+Tutorials.forEach( ele => { ele.따라하기() })
 ```
 
 ### SpringBoot BBS on AWS
