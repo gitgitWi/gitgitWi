@@ -10,7 +10,7 @@ blog: https://gitgitwi.github.io/
 SELECT educations ORDER BY newest DESC
 ```
 
-### BoostCamp Membership (Now)
+### ***BoostCamp Membership (Now)***
 
 - Web Fullstack with JavaScript
 - 2020.08.31. ~ 2020.12.21.
