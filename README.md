@@ -10,13 +10,13 @@ blog: https://gitgitwi.github.io/
 SELECT educations ORDER BY newest DESC
 ```
 
-### ***BoostCamp Membership (Now)***
+### BoostCamp 2020 Membership
 
 - Web Fullstack with JavaScript
 - 2020.08.31. ~ 2020.12.21.
 - Naver Connect Foundation & CodeSquad
 
-### BoostCamp Challenge
+### BoostCamp 2020 Challenge
 
 - CS Basics with JavaScript
 - 2020.07.27 ~ 2020.08.21.
