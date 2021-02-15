@@ -1,6 +1,5 @@
 # github of gitgitWi
 
-blog: https://gitgitwi.github.io/
 
 <br>
 
