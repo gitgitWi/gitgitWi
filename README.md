@@ -1,8 +1,3 @@
-# github of gitgitWi
-
-
-<br>
-
 ## Educated at
 
 ```sql
