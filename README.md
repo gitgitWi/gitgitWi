@@ -1,3 +1,7 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitgitWi&count_private=true&theme=bear" alter="gitgitWi's GitHub stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitgitWi" alter="Top Langs" />
+
 ## Worked at
 
 ### 줌인터넷 포털개발팀
