@@ -1,8 +1,14 @@
-## Educated at
+## Worked at
 
-```sql
-SELECT educations ORDER BY newest DESC
-```
+### 줌인터넷 포털개발팀
+
+- Front-end Developer
+- Vue.js, Node.js
+- 2021.04.26. ~ current
+
+---
+
+## Educated at
 
 ### BoostCamp 2020 Membership
 
@@ -27,27 +33,3 @@ SELECT educations ORDER BY newest DESC
 - Java Spring MVC, R & Python Data Analysis
 - 2019.12.30. ~ 2020.06.15.
 - 중앙정보처리학원
-
-<br/>
-
----
-
-## Mini Projects of Tutorials
-
-```js
-const Tutorials = ["책", "Youtube"]
-Tutorials.forEach( ele => { ele.따라하기() })
-```
-
-### SpringBoot BBS on AWS
-
-- Book: "스프링부트와 AWS로 혼자 구현하는 웹서비스, 이동욱, 2019, 프리렉"
-    - notes: https://github.com/gitgitWi/Lecture-Notes/tree/master/Spring/SpringBoot-AWS
-- Tech Stacks: Java Spring Boot, AWS EC2-RDS-S3-CodeDeploy, Google OAuth, TravisCI - Nginx
-- REPO: (https://github.com/gitgitWi/book-aws)
-
-### COVID-19 Tracker
-
-- web: http://regular-prison.surge.sh
-- Tech Stacks: React, Chart.js, material ui
-- LectureBy: [JavaScript Mastery - Build a COVID-19 Tracker Application](https://www.youtube.com/watch?v=khJlrj3Y6Ls)
