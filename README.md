@@ -1,7 +1,11 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitgitWi&count_private=true&theme=bear" alter="gitgitWi's GitHub stats" />
+<a href="https://github-readme-stats.vercel.app/api?username=gitgitWi&count_private=true&theme=calm" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitgitWi&count_private=true&theme=calm" alt="gitgitWi's GitHub stats" />
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitgitWi" alter="Top Langs" />
-
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=gitgitWi&layout=compact&langs_count=6&hide=Jupyter%20Notebook,HTML" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitgitWi&layout=compact&langs_count=6&hide=Jupyter%20Notebook,HTML" alt="Top Langs" />
+</a>
+  
 ## Worked at
 
 ### 줌인터넷 포털개발팀
