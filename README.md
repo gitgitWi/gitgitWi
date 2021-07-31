@@ -2,8 +2,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitgitWi&count_private=true&theme=calm" alt="gitgitWi's GitHub stats" />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=gitgitWi&layout=compact&langs_count=6&hide=Jupyter%20Notebook,HTML" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitgitWi&layout=compact&langs_count=6&hide=Jupyter%20Notebook,HTML" alt="Top Langs" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=gitgitWi&layout=compact&langs_count=6&hide=HTML" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitgitWi&layout=compact&langs_count=6&hide=HTML" alt="Top Langs" />
 </a>
   
 ## Worked at
