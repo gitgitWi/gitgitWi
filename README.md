@@ -8,7 +8,7 @@
   
 ## Worked at
 
-### 줌인터넷 포털개발팀
+### 줌인터넷 서비스개발팀
 
 - Front-end Developer
 - Vue.js, Node.js
