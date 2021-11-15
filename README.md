@@ -2,9 +2,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitgitWi&count_private=true&theme=calm" alt="gitgitWi's GitHub stats" />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=gitgitWi&layout=compact&langs_count=6&hide=HTML" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitgitWi&layout=compact&langs_count=6&hide=HTML" alt="Top Langs" />
-</a>
+[![gitgitWi wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gitgitWi&layout=compact)](https://github.com/gitgitWi/gitgitWi)
+
   
 ## Worked at
 
