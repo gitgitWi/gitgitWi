@@ -7,10 +7,10 @@
   
 ## Worked at
 
-### 줌인터넷 서비스개발팀
+### 줌인터넷 포털개발팀
 
 - Front-end Developer
-- Vue.js, Node.js
+- Vue.js, Nest.js, D3.js
 - 2021.04.26. ~ current
 
 ---
