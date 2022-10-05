@@ -10,23 +10,19 @@
 ### 줌인터넷 포털개발팀
 
 - Front-end Developer
-- Vue.js, Nest.js, D3.js
+  - React/Next.js, Vue.js, D3.js
+  - Nest.js
 - 2021.04.26. ~ current
 
 ---
 
 ## Educated at
 
-### BoostCamp 2020 Membership
+### BoostCamp 2020 
 
 - Web Fullstack with JavaScript
-- 2020.08.31. ~ 2020.12.21.
-- Naver Connect Foundation & CodeSquad
-
-### BoostCamp 2020 Challenge
-
-- CS Basics with JavaScript
-- 2020.07.27 ~ 2020.08.21.
+- Challenge 2020.07.27 ~ 2020.08.21.
+- Membership 2020.08.31. ~ 2020.12.21.
 - Naver Connect Foundation & CodeSquad
 
 ### AI Cutting Edge
