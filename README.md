@@ -13,7 +13,7 @@
   - React/Next.js
 - 2023.09.28. ~ current
 
-### 줌인터넷
+### 줌인터넷 @zuminternet
 
 - Frontend Developer
   - React/Next.js, Vue.js, D3.js
