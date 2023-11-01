@@ -7,32 +7,15 @@
   
 ## Worked at
 
-### 줌인터넷 포털개발팀
+### ESTSoft
 
-- Front-end Developer
+- Frontend Developer
+  - React/Next.js
+- 2023.09.28. ~ current
+
+### 줌인터넷
+
+- Frontend Developer
   - React/Next.js, Vue.js, D3.js
   - Nest.js
-- 2021.04.26. ~ current
-
----
-
-## Educated at
-
-### BoostCamp 2020 
-
-- Web Fullstack with JavaScript
-- Challenge 2020.07.27 ~ 2020.08.21.
-- Membership 2020.08.31. ~ 2020.12.21.
-- Naver Connect Foundation & CodeSquad
-
-### AI Cutting Edge
-
-- NLP 도메인 특화 과정
-- 2020.06.08. ~ 2020.06.26.
-- 서울특별시 & 모두의 연구소
-
-### R,파이썬 기반 빅데이터 분석 전문가 양성과정
-
-- Java Spring MVC, R & Python Data Analysis
-- 2019.12.30. ~ 2020.06.15.
-- 중앙정보처리학원
+- 2021.04.26. ~ 2023.09.27.
